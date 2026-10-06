@@ -24,7 +24,7 @@
 - Linux & Open Source
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/me-morii">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=me-morii&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="me-morii's GitHub Stats" />
