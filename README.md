@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Currently learning C++, Python and JavaScript
@@ -27,12 +27,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/me-morii">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=me-morii&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="me-morii's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=me-morii&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="me-morii's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=me-morii&theme=dark&hide_border=true&cache_seconds=86400" alt="me-morii's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=me-morii&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mayank Kumar Singh's GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=me-morii&theme=github_dark&hide_border=true&cache_seconds=86400" alt="me-morii's GitHub Streak" width="49%" />
 </p>
 
 
@@ -48,6 +45,7 @@
 
 <h3 align="center">Frontend</h3>
 <p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
 
 </p>
@@ -60,7 +58,8 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
 </p>
 
@@ -82,6 +81,6 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
