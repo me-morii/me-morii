@@ -27,9 +27,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/me-morii">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=me-morii&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="me-morii's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=me-morii&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="me-morii's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=me-morii&theme=github_dark&hide_border=true&cache_seconds=86400" alt="me-morii's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=me-morii&theme=nightowl&hide_border=true&cache_seconds=86400" alt="me-morii's GitHub Streak" width="49%" />
 </p>
 
 
